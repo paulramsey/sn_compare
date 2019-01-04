@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Output files
+output/*
+
+# DS Store
+.DS_Store
+
+# VSCode
+settings.json
+launch.json
